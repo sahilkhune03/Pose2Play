@@ -20,6 +20,7 @@ OpenCV (cv2): Open Source Computer Vision Library is used for real-time computer
 Mediapipe: A framework developed by Google for building machine learning pipelines to process media (such as images and video). In this script, it's specifically used for pose estimation.
 PyAutoGUI: This library enables Python control of the mouse and keyboard for automation tasks. It's being used here to simulate key presses based on the detected pose.
 NumPy: This library is used for numerical computing. It's commonly used for handling arrays and matrices, which are utilized for image processing tasks in this script.
+Streamlit:: An open-source Python library for creating interactive web applications for machine learning and data science projects.
 
 🔴 Video Demo!
 ### Demo video link of our project-https://drive.google.com/file/d/16MqHVEj_CpKb3ObLjyUE25dt5uk-rI5K/view
